@@ -1,0 +1,27 @@
+Desktop Calendar - SoftSteph ;)
+***
+
+Fonctionnalites :
+- Affichage de la date, de l'heure et des RDV à venir sur le bureau
+- Reglage des RDV previsionnels a afficher (en jours)
+
+
+
+Historique des versions :
+
+v0.12 du 03/09/2022
+Amélioration de l'affichage sous Windows (Top Most) en supprimant la transparence
+
+v0.11 du 02/09/2022
+Traduction et optimisation MacOs
+
+v0.8 du 31/08/2022
+Correction d'un bug sur le placement de la fenêtre
+Amélioration du menu des Options (options cochees)
+Prise en compte des RDV "Journee Entiere" en masquant l'heure
+
+v.07 du 29/08/2022
+Correction d'un bug concernant l'affichage du detail des Notes
+
+v0.6 du 29/08/2022
+1ere version Windows fonctionnelle
