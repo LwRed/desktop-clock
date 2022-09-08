@@ -1,4 +1,4 @@
-# Desktop Clock
+# Desktop Calendar (Revisited for Windows by SoftSteph ;)
  
 A very simple clock showing date and time that can be set to the macOS desktop level, ie: it shows above your desktop picture but below Finder icons, app windows etc.
 
